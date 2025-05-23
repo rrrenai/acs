@@ -1,0 +1,9 @@
+Confusion Matrix:
+[[14  2]
+ [ 1 28]]
+
+Accuracy: 0.9333333333333333
+Sensitivity (Recall): 0.9655172413793104
+Specificity: 0.875
+Precision: 0.9333333333333333
+F1 Score: 0.9491525423728815
